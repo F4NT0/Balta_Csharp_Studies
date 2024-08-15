@@ -111,6 +111,15 @@ int inteiro = int.Parse("100");
 int inteiro = Convert.ToInt32("100");
 ```
 
+## Usando ToString
+
+- Todos os tipos primitiveis tem o método ToString()
+- Serve para transformar o dado em uma string em nosso projeto
+
+```csharp
+int inteiro = 3;
+string valor = inteiro.ToString(); // "3"
+```
 
 
 
