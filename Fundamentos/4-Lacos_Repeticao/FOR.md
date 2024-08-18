@@ -69,4 +69,3 @@ foreach (int num in numbers)
 }
 ```
 
-Esse 
