@@ -17,4 +17,4 @@ Estudos dos cursos do Balta.io em C# e .NET
 
 8 - [Laço de Repetição DO-WHILE](Fundamentos/4-Lacos_Repeticao/DO.md)
 
-9 - [Funções ou Métodos]()
+9 - [Funções ou Métodos](Fundamentos/5-Funcoes_Metodos/Funcoes.md)

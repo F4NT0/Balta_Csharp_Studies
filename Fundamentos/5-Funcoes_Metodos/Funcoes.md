@@ -2,7 +2,7 @@
 
 Podemos segmentar nosso código em funções.
 
-Funções e Métodos são a mesma coisa.
+Funções e Métodos __são a mesma coisa__.
 
 O __main__ é um método muito utilizado.
 
@@ -66,5 +66,71 @@ static void Main(string[] args)
 {
     var infos = RetornandoMetodo("Andre",12,true);
     Console.WriteLine(infos);
+}
+```
+
+## Parâmetros opcionais
+
+Podemos definir um valor default para um parâmetro, caso o cliente não passe essa informação podemos definir um valor inicial para ele.
+
+Todos os valores opcionais devem vir por último na construção de um método
+
+```csharp
+// Idade é opcional, caso não passe a idade vai pegar o valor default
+static string Dados(string nome, string sobrenome, int idade = 34)
+{
+    return nome + " " + sobrenome + " " + idade;
+}
+
+static void Main(string[] args)
+{
+    string dados = Dados("Gabriel", "Fanto"); // Saída: Gabriel Fanto 34
+    string dados2 = Dados("Gabriel","Fanto",28); // Saída: Gabriel Fanto 28
+}
+```
+
+## Métodos simples usando arrow functions
+
+Quando um método somente tem uma linha, podemos simplificar utilizando arrow functions.
+
+Arrow Functions em C# é uma forma concisa de escrever métodos ou expressões lambdas, servem para simplificar o código tornando o mais legível e compacto.
+
+usamos o símbolo __=>__ para definir o corpo do método.
+
+```csharp
+// Forma Antiga
+static string Dados(string nome, string sobrenome, int idade = 34)
+{
+    return nome + " " + sobrenome + " " + idade;
+}
+
+// Usando Arrow Functions
+static string Dados(string nome, string sobrenome, int idade = 34) => nome + " " sobrenome + " " + idade
+```
+
+## Obervações
+
+Não podemos ter métodos dentro de métodos, não podemos criar dentro de uma Main ou qualquer outro método um método interno.
+
+Devemos ter um retorno, não importa se não passar pela condição de um IF, deve ter um retorno mesmo por default
+
+```csharp
+// ERRADO
+static string RetornaNome(string nome)
+{
+    if (nome == "5")
+    {
+        return nome;
+    }
+}
+
+// CERTO
+static string RetornaNome(string nome)
+{
+    if (nome == "5")
+    {
+        return nome;
+    }
+    return ""; // Caso nennhum caso da condição é aceito
 }
 ```
