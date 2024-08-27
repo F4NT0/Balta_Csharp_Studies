@@ -1,7 +1,5 @@
 # Desenvolvendo em Csharp
 ---
-
-
 ## Csharp
 
 - [[Fundamentos]]
