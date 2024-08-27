@@ -10,6 +10,7 @@
           {
             "id": "4867ca9c772d505d",
             "type": "tabs",
+            "dimension": 51.05853051058531,
             "children": [
               {
                 "id": "d737f9f7c562b79f",
@@ -17,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "BD/SQLite/SQLite Tables.md",
+                    "file": "BD/SQLite/Videos.md",
                     "mode": "source",
                     "source": false
                   }
@@ -28,6 +29,7 @@
           {
             "id": "3337bc5539ae1b8b",
             "type": "split",
+            "dimension": 48.94146948941469,
             "children": [
               {
                 "id": "a5d1db962a684b15",
@@ -111,7 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305
+    "width": 266
   },
   "right": {
     "id": "245760c334de7a0b",
@@ -127,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BD/SQLite/SQLite Tables.md",
+                "file": "BD/SQLite/Videos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BD/SQLite/SQLite Tables.md",
+                "file": "BD/SQLite/Videos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BD/SQLite/SQLite Tables.md"
+                "file": "BD/SQLite/Videos.md"
               }
             }
           }
@@ -193,10 +195,11 @@
   },
   "active": "d737f9f7c562b79f",
   "lastOpenFiles": [
+    "BD/SQLite/SQLite.md",
+    "BD/SQLite/Videos.md",
+    "BD/SQLite/SQLite Tables.md",
     "BD/SQLite/Database.md",
     "BD/SQLite/Instalação.md",
-    "BD/SQLite/SQLite.md",
-    "BD/SQLite/SQLite Tables.md",
     "BD/SQLite/Comandos SQLite Console.md",
     "Home.md",
     "9 - ASP.NET Context.md",
@@ -237,7 +240,6 @@
     "Fundamentos/2 - Operadores/Atribuição.md",
     "Fundamentos/2 - Operadores/Aritméticos.md",
     "Fundamentos/5 - Funções e Métodos/Funções.md",
-    "Fundamentos/1 - Tipos de dados/Primitivos.md",
-    "Fundamentos/Fundamentos.md"
+    "Fundamentos/1 - Tipos de dados/Primitivos.md"
   ]
 }
