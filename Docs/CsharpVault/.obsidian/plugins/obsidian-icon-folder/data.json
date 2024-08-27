@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiStars",
       "SiSqlite",
       "FasDatabase",
       "SiObsidian",
-      "SiVisualstudio",
-      "LiCode"
+      "SiVisualstudio"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -100,5 +100,9 @@
     "iconName": "FasDatabase",
     "iconColor": "#001dfa"
   },
-  "BD/SQLite": "SiSqlite"
+  "BD/SQLite": "SiSqlite",
+  "Avançado": {
+    "iconName": "LiStars",
+    "iconColor": "#ffa200"
+  }
 }

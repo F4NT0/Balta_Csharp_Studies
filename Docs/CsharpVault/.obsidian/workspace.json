@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Home.md",
+                    "file": "Avançado/Avançado.md",
                     "mode": "source",
                     "source": false
                   }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Avançado/Avançado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Avançado/Avançado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Avançado/Avançado.md"
               }
             }
           }
@@ -195,13 +195,15 @@
   },
   "active": "d737f9f7c562b79f",
   "lastOpenFiles": [
+    "Home.md",
+    "Avançado/Avançado.md",
+    "Avançado",
     "BD/SQLite/Videos.md",
     "BD/SQLite/SQLite.md",
     "BD/SQLite/SQLite Tables.md",
     "BD/SQLite/Database.md",
     "BD/SQLite/Instalação.md",
     "BD/SQLite/Comandos SQLite Console.md",
-    "Home.md",
     "9 - ASP.NET Context.md",
     "Obsidian/Git.md",
     "Imagens/SQLite/SQLiteDatabaseCreation2.png",
@@ -232,14 +234,12 @@
     "Fundamentos/2 - Operadores/Operadores.md",
     "Imagens/Dotnet",
     "Fundamentos/1 - Tipos de dados/Conversões.md",
-    "Dotnet",
     "Fundamentos/1 - Tipos de dados/Tipos de dados.md",
     "Fundamentos/2 - Operadores/Incremento e Decremento.md",
     "Fundamentos/2 - Operadores/Lógicos.md",
     "Fundamentos/2 - Operadores/Comparação.md",
     "Fundamentos/2 - Operadores/Atribuição.md",
     "Fundamentos/2 - Operadores/Aritméticos.md",
-    "Fundamentos/5 - Funções e Métodos/Funções.md",
-    "Fundamentos/1 - Tipos de dados/Primitivos.md"
+    "Fundamentos/5 - Funções e Métodos/Funções.md"
   ]
 }
