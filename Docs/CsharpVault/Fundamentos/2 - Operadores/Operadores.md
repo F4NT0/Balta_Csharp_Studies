@@ -2,5 +2,6 @@
 ---
 
 1 - [[Aritméticos]]
-2 - [[Atribuicao]]
-3 - 
+2 - [[Atribuição]]
+3 - [[Comparação]]
+4 - [[Lógicos]]

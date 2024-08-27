@@ -1,6 +1,9 @@
 
-## Página inicial dos Fundamentos de Csharp
+## Fundamento da linguagem Csharp
 ---
 
 1 - [[Tipos de dados]]
 2 - [[Operadores]]
+3 - [[Estruturas Condicionais]]
+4 - [[Laços de Repetição]]
+5 - [[Funções e Métodos]]
