@@ -5,8 +5,51 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Fundamentos ",
+      "color": {
+        "a": 1,
+        "rgb": 9760778
+      }
+    },
+    {
+      "query": "path:Dotnet  ",
+      "color": {
+        "a": 1,
+        "rgb": 14762476
+      }
+    },
+    {
+      "query": "file:Home",
+      "color": {
+        "a": 1,
+        "rgb": 15533831
+      }
+    },
+    {
+      "query": "path:Projetos  ",
+      "color": {
+        "a": 1,
+        "rgb": 15768069
+      }
+    },
+    {
+      "query": "path:Obsidian  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
+    },
+    {
+      "query": "path:BD  ",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5087618855792603,
+  "scale": 0.3628873693012133,
   "close": true
 }

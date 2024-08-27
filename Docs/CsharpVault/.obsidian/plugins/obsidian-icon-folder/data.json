@@ -6,10 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiImage",
-      "LiStar",
-      "LiFolder",
-      "LiFile"
+      "SiSqlite",
+      "FasDatabase",
+      "SiObsidian",
+      "SiVisualstudio",
+      "LiCode"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -78,5 +79,26 @@
   "Imagens": {
     "iconName": "LiImage",
     "iconColor": "#00ff59"
-  }
+  },
+  "Dotnet": {
+    "iconName": "SiDotnet",
+    "iconColor": "#c670ff"
+  },
+  "Projetos": {
+    "iconName": "LiCode",
+    "iconColor": "#0ae1f0"
+  },
+  "Visual Studio": {
+    "iconName": "SiVisualstudio",
+    "iconColor": "#ff00ea"
+  },
+  "Obsidian": {
+    "iconName": "SiObsidian",
+    "iconColor": "#71067f"
+  },
+  "BD": {
+    "iconName": "FasDatabase",
+    "iconColor": "#001dfa"
+  },
+  "BD/SQLite": "SiSqlite"
 }

@@ -12,5 +12,6 @@
   "encore-settings@@encore-custom-h2@@dark": "#FFEF00",
   "encore-settings@@encore-custom-h3@@light": "#00C1FF",
   "encore-settings@@encore-custom-h3@@dark": "#00C1FF",
-  "encore-settings@@encore-translucency-image": "url(\"https://github.com/F4NT0/Balta_Csharp_Studies/blob/main/Docs/CsharpVault/Imagens/Csharp_Dev_Kit.png\")"
+  "encore-settings@@encore-translucency-blur-amount": 0,
+  "encore-settings@@encore-translucency-strength": 0.25
 }

@@ -1,5 +1,18 @@
-# Estudos de C# do Balta.io
+# Desenvolvendo em Csharp
 ---
 
-- :LiStar: [[Fundamentos]]
-- 
+
+## Csharp
+
+- [[Fundamentos]]
+
+## .NET
+
+- [[Dotnet]]
+- [[Projetos]]
+
+## Configuração Obisidian
+- [[Obsidian]]
+
+## Banco de dados
+- [[SQLite]]

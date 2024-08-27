@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Fundamentos/5 - Funções e Métodos/Funções.md",
+                    "file": "BD/SQLite/SQLite Tables.md",
                     "mode": "source",
                     "source": false
                   }
@@ -26,13 +26,12 @@
             ]
           },
           {
-            "id": "4ca3b586ed2dcd36",
+            "id": "3337bc5539ae1b8b",
             "type": "split",
             "children": [
               {
-                "id": "e1555b216c1b5345",
+                "id": "a5d1db962a684b15",
                 "type": "tabs",
-                "dimension": 56.388888888888886,
                 "children": [
                   {
                     "id": "4ee2fd852dd0f820",
@@ -47,7 +46,6 @@
               {
                 "id": "a96fb804f59c0359",
                 "type": "tabs",
-                "dimension": 43.611111111111114,
                 "children": [
                   {
                     "id": "f90b1c933ee10d8e",
@@ -129,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundamentos/5 - Funções e Métodos/Funções.md",
+                "file": "BD/SQLite/SQLite Tables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fundamentos/5 - Funções e Métodos/Funções.md",
+                "file": "BD/SQLite/SQLite Tables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fundamentos/5 - Funções e Métodos/Funções.md"
+                "file": "BD/SQLite/SQLite Tables.md"
               }
             }
           }
@@ -195,32 +193,51 @@
   },
   "active": "d737f9f7c562b79f",
   "lastOpenFiles": [
-    "Fundamentos/1 - Tipos de dados/Primitivos.md",
-    "Fundamentos/1 - Tipos de dados/Tipos de dados.md",
-    "Fundamentos/Fundamentos.md",
+    "BD/SQLite/Database.md",
+    "BD/SQLite/Instalação.md",
+    "BD/SQLite/SQLite.md",
+    "BD/SQLite/SQLite Tables.md",
+    "BD/SQLite/Comandos SQLite Console.md",
     "Home.md",
-    "Fundamentos/5 - Funções e Métodos/Funções.md",
-    "Fundamentos/5 - Funções e Métodos/Funções e Métodos.md",
-    "Fundamentos/4 - Laços de Repetição/WHILE.md",
-    "Fundamentos/4 - Laços de Repetição/Laços de Repetição.md",
-    "Fundamentos/4 - Laços de Repetição/FOR.md",
-    "Fundamentos/4 - Laços de Repetição/DO.md",
-    "Fundamentos/3 - Estruturas Condicionais/SWITCH.md",
-    "Fundamentos/3 - Estruturas Condicionais/IF-ELSE.md",
-    "Fundamentos/3 - Estruturas Condicionais/Estruturas Condicionais.md",
+    "9 - ASP.NET Context.md",
+    "Obsidian/Git.md",
+    "Imagens/SQLite/SQLiteDatabaseCreation2.png",
+    "Imagens/SQLite/SQLiteDatabaseCreation1.png",
+    "Imagens/SQLite/SQLiteConsolePrompt.png",
+    "Imagens/SQLite/SQLiteConsoleDBCreation.gif",
+    "Imagens/SQLite/SQLiteAddDatabaseGUI.gif",
+    "Imagens/SQLite/SQLiteAccess.png",
+    "Imagens/SQLite/SQLite_MigrationComplete.png",
+    "Imagens/SQLite/SQLite_DropDatabase2.png",
+    "Imagens/SQLite/SQLite_DropDatabase.png",
+    "Imagens/SQLite/SQLStudioOpenTable.png",
+    "Imagens/SQLite",
+    "BD/SQLite",
+    "BD",
+    "Obsidian/Obsidian.md",
+    "Imagens/Git",
+    "Obsidian/Tema.md",
+    "Imagens/Tema",
+    "Obsidian",
+    "Visual Studio",
+    "Projetos/Projetos.md",
+    "Projetos/Hello World.md",
+    "Dotnet/Dotnet.md",
+    "Projetos",
+    "Dotnet/Projeto Console.md",
+    "Dotnet/Instalação.md",
     "Fundamentos/2 - Operadores/Operadores.md",
-    "Fundamentos/2 - Operadores/Lógicos.md",
-    "Fundamentos/2 - Operadores/Atribuição.md",
-    "Imagens/Csharp_Dev_Kit.png",
-    "Fundamentos/2 - Operadores/Comparação.md",
-    "Imagens",
-    "Fundamentos/2 - Operadores/Aritméticos.md",
+    "Imagens/Dotnet",
     "Fundamentos/1 - Tipos de dados/Conversões.md",
-    "Fundamentos/5 - Funções e Métodos",
-    "Fundamentos/4 - Laços de Repetição",
-    "Fundamentos/3 - Estruturas Condicionais",
-    "Fundamentos/2 - Operadores",
-    "Fundamentos/1 - Tipos de dados",
-    "Fundamentos"
+    "Dotnet",
+    "Fundamentos/1 - Tipos de dados/Tipos de dados.md",
+    "Fundamentos/2 - Operadores/Incremento e Decremento.md",
+    "Fundamentos/2 - Operadores/Lógicos.md",
+    "Fundamentos/2 - Operadores/Comparação.md",
+    "Fundamentos/2 - Operadores/Atribuição.md",
+    "Fundamentos/2 - Operadores/Aritméticos.md",
+    "Fundamentos/5 - Funções e Métodos/Funções.md",
+    "Fundamentos/1 - Tipos de dados/Primitivos.md",
+    "Fundamentos/Fundamentos.md"
   ]
 }
