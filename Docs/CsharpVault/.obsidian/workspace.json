@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Fundamentos/8 - Enums/Enums.md",
+                    "file": "Avançado/Avançado.md",
                     "mode": "source",
                     "source": false
                   }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundamentos/8 - Enums/Enums.md",
+                "file": "Avançado/Avançado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fundamentos/8 - Enums/Enums.md",
+                "file": "Avançado/Avançado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fundamentos/8 - Enums/Enums.md"
+                "file": "Avançado/Avançado.md"
               }
             }
           }
@@ -192,8 +192,8 @@
   },
   "active": "4ee2fd852dd0f820",
   "lastOpenFiles": [
-    "Fundamentos/Fundamentos.md",
     "Fundamentos/8 - Enums/Enums.md",
+    "Fundamentos/Fundamentos.md",
     "Fundamentos/8 - Enums",
     "Fundamentos/7 - Structs/Structs.md",
     "Fundamentos/6 - Tipos na memória/Tipos de Valor.md",
