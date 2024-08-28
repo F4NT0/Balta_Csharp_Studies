@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "117f9f4d0f8c988d",
+        "id": "4bdc811dc379453d",
         "type": "split",
         "children": [
           {
-            "id": "a5d1db962a684b15",
+            "id": "d98e3dcad9e8c9a6",
             "type": "tabs",
             "children": [
               {
-                "id": "4ee2fd852dd0f820",
+                "id": "a1ee17fa3bf0f376",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Avançado/Avançado.md",
+                    "file": "3 - Avançado/Avançado.md",
                     "mode": "source",
                     "source": false
                   }
@@ -26,12 +26,13 @@
             ]
           },
           {
-            "id": "d953a94d7133062d",
+            "id": "a5bb86ba5e95c937",
             "type": "split",
             "children": [
               {
-                "id": "d98e3dcad9e8c9a6",
+                "id": "e289e132a90493e7",
                 "type": "tabs",
+                "dimension": 62.787356321839084,
                 "children": [
                   {
                     "id": "bf6f06a4dd835c8a",
@@ -44,8 +45,9 @@
                 ]
               },
               {
-                "id": "01dbffa446b32162",
+                "id": "456cbeaa3d0479b5",
                 "type": "tabs",
+                "dimension": 37.212643678160916,
                 "children": [
                   {
                     "id": "f90b1c933ee10d8e",
@@ -127,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Avançado/Avançado.md",
+                "file": "3 - Avançado/Avançado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Avançado/Avançado.md",
+                "file": "3 - Avançado/Avançado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Avançado/Avançado.md"
+                "file": "3 - Avançado/Avançado.md"
               }
             }
           }
@@ -190,23 +192,32 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4ee2fd852dd0f820",
+  "active": "a1ee17fa3bf0f376",
   "lastOpenFiles": [
-    "Fundamentos/8 - Enums/Enums.md",
-    "Fundamentos/Fundamentos.md",
-    "Fundamentos/8 - Enums",
-    "Fundamentos/7 - Structs/Structs.md",
-    "Fundamentos/6 - Tipos na memória/Tipos de Valor.md",
-    "Fundamentos/7 - Structs",
+    "2 - Intermediário/Intermediário.md",
+    "2 - Intermediário/Arrays.md",
+    "2 - Intermediário/ForEach.md",
     "Home.md",
-    "Avançado/Avançado.md",
-    "Fundamentos/6 - Tipos na memória/Tipos de Referência.md",
-    "Fundamentos/6 - Tipos na memória/Tipos na memória.md",
+    "1 - Fundamentos/9 - Classes Dotnet/Classe Math.md",
+    "2 - Intermediário",
+    "1 - Fundamentos/9 - Classes Dotnet/Classes Dotnet.md",
+    "1 - Fundamentos/3 - Estruturas Condicionais/IF-ELSE.md",
+    "3 - Avançado/Avançado.md",
+    "1 - Fundamentos/9 - Classes Dotnet/Apresentação.md",
+    "1 - Fundamentos/8 - Enums/Enums.md",
+    "1 - Fundamentos/9 - Classes Dotnet",
+    "1 - Fundamentos/Fundamentos.md",
+    "1 - Fundamentos/8 - Enums",
+    "1 - Fundamentos/7 - Structs/Structs.md",
+    "1 - Fundamentos/6 - Tipos na memória/Tipos de Valor.md",
+    "1 - Fundamentos/7 - Structs",
+    "1 - Fundamentos/6 - Tipos na memória/Tipos de Referência.md",
+    "1 - Fundamentos/6 - Tipos na memória/Tipos na memória.md",
     "Projetos/Hello World.md",
-    "Fundamentos/6 - Tipos na memória",
-    "Fundamentos/5 - Funções e Métodos/Funções.md",
-    "Fundamentos/5 - Funções e Métodos/Funções e Métodos.md",
-    "Avançado",
+    "1 - Fundamentos/6 - Tipos na memória",
+    "1 - Fundamentos/5 - Funções e Métodos/Funções.md",
+    "1 - Fundamentos/5 - Funções e Métodos/Funções e Métodos.md",
+    "3 - Avançado",
     "BD/SQLite/Videos.md",
     "BD/SQLite/SQLite.md",
     "BD/SQLite/SQLite Tables.md",
@@ -228,15 +239,6 @@
     "Imagens/SQLite",
     "BD/SQLite",
     "BD",
-    "Obsidian/Obsidian.md",
-    "Imagens/Git",
-    "Obsidian/Tema.md",
-    "Imagens/Tema",
-    "Obsidian",
-    "Projetos/Projetos.md",
-    "Dotnet/Dotnet.md",
-    "Dotnet/Projeto Console.md",
-    "Dotnet/Instalação.md",
-    "Fundamentos/2 - Operadores/Operadores.md"
+    "Imagens/Git"
   ]
 }

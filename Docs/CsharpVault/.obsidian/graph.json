@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:Fundamentos ",
@@ -32,7 +32,7 @@
       "query": "path:Projetos  ",
       "color": {
         "a": 1,
-        "rgb": 15768069
+        "rgb": 16250871
       }
     },
     {
@@ -55,6 +55,13 @@
         "a": 1,
         "rgb": 6053078
       }
+    },
+    {
+      "query": "path:\"2 - Intermediário\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16294157
+      }
     }
   ],
   "collapse-display": true,
@@ -67,6 +74,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.258838656218166,
+  "scale": 0.713275462622455,
   "close": true
 }

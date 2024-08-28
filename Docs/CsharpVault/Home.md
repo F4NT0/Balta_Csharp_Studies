@@ -3,6 +3,7 @@
 ## Csharp
 
 - [[Fundamentos]]
+- [[Intermediário]]
 - [[Avançado]]
 
 ## .NET

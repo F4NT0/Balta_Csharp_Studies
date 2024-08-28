@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiStar",
+      "TiStarHalf",
       "LiFile",
       "LiFolder",
-      "LiStars",
-      "SiSqlite",
-      "FasDatabase"
+      "LiStars"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -48,34 +48,6 @@
     "lucideIconPackType": "native",
     "debugMode": false
   },
-  "Fundamentos/1 - Tipos de dados/Primitivos.md": {
-    "iconName": "LiFile",
-    "iconColor": "#bb00ff"
-  },
-  "Fundamentos/1 - Tipos de dados": {
-    "iconName": "LiFolder",
-    "iconColor": "#2bff00"
-  },
-  "Fundamentos/2 - Operadores": {
-    "iconName": "LiFolder",
-    "iconColor": "#37ff00"
-  },
-  "Fundamentos/3 - Estruturas Condicionais": {
-    "iconName": "LiFolder",
-    "iconColor": "#00ff2a"
-  },
-  "Fundamentos/4 - Laços de Repetição": {
-    "iconName": "LiFolder",
-    "iconColor": "#00ff11"
-  },
-  "Fundamentos/5 - Funções e Métodos": {
-    "iconName": "LiFolder",
-    "iconColor": "#00ff04"
-  },
-  "Fundamentos": {
-    "iconName": "LiStar",
-    "iconColor": "#ffae00"
-  },
   "Imagens": {
     "iconName": "LiImage",
     "iconColor": "#00ff59"
@@ -101,24 +73,60 @@
     "iconColor": "#001dfa"
   },
   "BD/SQLite": "SiSqlite",
-  "Avançado": {
-    "iconName": "LiStars",
-    "iconColor": "#ffa200"
+  "1 - Fundamentos": {
+    "iconName": "LiStar",
+    "iconColor": "#ffae00"
   },
-  "Fundamentos/6 - Tipos na memória": {
+  "1 - Fundamentos/4 - Laços de Repetição": {
+    "iconName": "LiFolder",
+    "iconColor": "#00ff11"
+  },
+  "1 - Fundamentos/1 - Tipos de dados": {
+    "iconName": "LiFolder",
+    "iconColor": "#2bff00"
+  },
+  "1 - Fundamentos/6 - Tipos na memória": {
     "iconName": "LiFolder",
     "iconColor": "#1eff00"
   },
-  "Fundamentos/6 - Tipos na memória/Tipos na memória.md": {
+  "1 - Fundamentos/2 - Operadores": {
+    "iconName": "LiFolder",
+    "iconColor": "#37ff00"
+  },
+  "1 - Fundamentos/7 - Structs": {
+    "iconName": "LiFolder",
+    "iconColor": "#1eff00"
+  },
+  "1 - Fundamentos/3 - Estruturas Condicionais": {
+    "iconName": "LiFolder",
+    "iconColor": "#00ff2a"
+  },
+  "1 - Fundamentos/5 - Funções e Métodos": {
+    "iconName": "LiFolder",
+    "iconColor": "#00ff04"
+  },
+  "1 - Fundamentos/8 - Enums": {
+    "iconName": "LiFolder",
+    "iconColor": "#04ff00"
+  },
+  "1 - Fundamentos/1 - Tipos de dados/Primitivos.md": {
+    "iconName": "LiFile",
+    "iconColor": "#bb00ff"
+  },
+  "1 - Fundamentos/6 - Tipos na memória/Tipos na memória.md": {
     "iconName": "LiFile",
     "iconColor": "#c800ff"
   },
-  "Fundamentos/7 - Structs": {
+  "1 - Fundamentos/9 - Classes Dotnet": {
     "iconName": "LiFolder",
-    "iconColor": "#1eff00"
+    "iconColor": "#8cff00"
   },
-  "Fundamentos/8 - Enums": {
-    "iconName": "LiFolder",
-    "iconColor": "#04ff00"
+  "2 - Intermediário": {
+    "iconName": "TiStarHalf",
+    "iconColor": "#ffa200"
+  },
+  "3 - Avançado": {
+    "iconName": "TiStar",
+    "iconColor": "#ff8800"
   }
 }
