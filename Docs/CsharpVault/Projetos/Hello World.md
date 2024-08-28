@@ -16,7 +16,7 @@ O .NET após a versão 6 fica criando um Hello World simples sem importar ou uti
 
 ## Básico
 
-Uma estrutura básica de uma classe em C# é uma forma mais entendível com outras linguages, como Java, onde podemos construir uma classe com um método $\color{magenta}\sf Main$ como no exemplo em Java abaixo:
+Uma estrutura básica de uma classe em C# é uma forma mais entendível com outras linguagens, como Java, onde podemos construir uma classe com um método $\color{magenta}\sf Main$ como no exemplo em Java abaixo:
 
 ```java
 // em Java

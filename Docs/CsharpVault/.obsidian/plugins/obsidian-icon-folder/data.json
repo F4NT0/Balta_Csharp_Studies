@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiFile",
+      "LiFolder",
       "LiStars",
       "SiSqlite",
-      "FasDatabase",
-      "SiObsidian",
-      "SiVisualstudio"
+      "FasDatabase"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -104,5 +104,21 @@
   "Avançado": {
     "iconName": "LiStars",
     "iconColor": "#ffa200"
+  },
+  "Fundamentos/6 - Tipos na memória": {
+    "iconName": "LiFolder",
+    "iconColor": "#1eff00"
+  },
+  "Fundamentos/6 - Tipos na memória/Tipos na memória.md": {
+    "iconName": "LiFile",
+    "iconColor": "#c800ff"
+  },
+  "Fundamentos/7 - Structs": {
+    "iconName": "LiFolder",
+    "iconColor": "#1eff00"
+  },
+  "Fundamentos/8 - Enums": {
+    "iconName": "LiFolder",
+    "iconColor": "#04ff00"
   }
 }

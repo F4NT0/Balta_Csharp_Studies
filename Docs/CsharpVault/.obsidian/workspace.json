@@ -4,21 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "62762ff3ffb482e8",
+        "id": "117f9f4d0f8c988d",
         "type": "split",
         "children": [
           {
-            "id": "4867ca9c772d505d",
+            "id": "a5d1db962a684b15",
             "type": "tabs",
-            "dimension": 51.05853051058531,
             "children": [
               {
-                "id": "d737f9f7c562b79f",
+                "id": "4ee2fd852dd0f820",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Avançado/Avançado.md",
+                    "file": "Fundamentos/8 - Enums/Enums.md",
                     "mode": "source",
                     "source": false
                   }
@@ -27,16 +26,15 @@
             ]
           },
           {
-            "id": "3337bc5539ae1b8b",
+            "id": "d953a94d7133062d",
             "type": "split",
-            "dimension": 48.94146948941469,
             "children": [
               {
-                "id": "a5d1db962a684b15",
+                "id": "d98e3dcad9e8c9a6",
                 "type": "tabs",
                 "children": [
                   {
-                    "id": "4ee2fd852dd0f820",
+                    "id": "bf6f06a4dd835c8a",
                     "type": "leaf",
                     "state": {
                       "type": "graph",
@@ -46,7 +44,7 @@
                 ]
               },
               {
-                "id": "a96fb804f59c0359",
+                "id": "01dbffa446b32162",
                 "type": "tabs",
                 "children": [
                   {
@@ -129,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Avançado/Avançado.md",
+                "file": "Fundamentos/8 - Enums/Enums.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Avançado/Avançado.md",
+                "file": "Fundamentos/8 - Enums/Enums.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Avançado/Avançado.md"
+                "file": "Fundamentos/8 - Enums/Enums.md"
               }
             }
           }
@@ -189,14 +187,25 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "homepage:Open homepage": false,
-      "terminal:Open terminal": false
+      "homepage:Open homepage": false
     }
   },
-  "active": "d737f9f7c562b79f",
+  "active": "4ee2fd852dd0f820",
   "lastOpenFiles": [
+    "Fundamentos/Fundamentos.md",
+    "Fundamentos/8 - Enums/Enums.md",
+    "Fundamentos/8 - Enums",
+    "Fundamentos/7 - Structs/Structs.md",
+    "Fundamentos/6 - Tipos na memória/Tipos de Valor.md",
+    "Fundamentos/7 - Structs",
     "Home.md",
     "Avançado/Avançado.md",
+    "Fundamentos/6 - Tipos na memória/Tipos de Referência.md",
+    "Fundamentos/6 - Tipos na memória/Tipos na memória.md",
+    "Projetos/Hello World.md",
+    "Fundamentos/6 - Tipos na memória",
+    "Fundamentos/5 - Funções e Métodos/Funções.md",
+    "Fundamentos/5 - Funções e Métodos/Funções e Métodos.md",
     "Avançado",
     "BD/SQLite/Videos.md",
     "BD/SQLite/SQLite.md",
@@ -224,22 +233,10 @@
     "Obsidian/Tema.md",
     "Imagens/Tema",
     "Obsidian",
-    "Visual Studio",
     "Projetos/Projetos.md",
-    "Projetos/Hello World.md",
     "Dotnet/Dotnet.md",
-    "Projetos",
     "Dotnet/Projeto Console.md",
     "Dotnet/Instalação.md",
-    "Fundamentos/2 - Operadores/Operadores.md",
-    "Imagens/Dotnet",
-    "Fundamentos/1 - Tipos de dados/Conversões.md",
-    "Fundamentos/1 - Tipos de dados/Tipos de dados.md",
-    "Fundamentos/2 - Operadores/Incremento e Decremento.md",
-    "Fundamentos/2 - Operadores/Lógicos.md",
-    "Fundamentos/2 - Operadores/Comparação.md",
-    "Fundamentos/2 - Operadores/Atribuição.md",
-    "Fundamentos/2 - Operadores/Aritméticos.md",
-    "Fundamentos/5 - Funções e Métodos/Funções.md"
+    "Fundamentos/2 - Operadores/Operadores.md"
   ]
 }
