@@ -1,6 +1,6 @@
 {
   "collapse-filter": true,
-  "search": "path:\"1 - Fundamentos\"  ",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -62,6 +62,13 @@
         "a": 1,
         "rgb": 16294157
       }
+    },
+    {
+      "query": "path:\"Organização de estudos\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 76532
+      }
     }
   ],
   "collapse-display": true,
@@ -74,6 +81,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7132754626224613,
+  "scale": 0.36288736930122717,
   "close": true
 }

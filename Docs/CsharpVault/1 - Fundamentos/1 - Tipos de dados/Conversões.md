@@ -59,6 +59,7 @@ int inteiro = int.Parse("100");
 - É uma classe chamada Convert com todos os tipos primitivos
 - Permite converter vários tipos de valores, não só String
 - Devemos sempre informar o tipo na chamada da conversão
+- Ele é mais preciso quando tem que fazer de ponto flutuante para inteiro
 
 ```csharp
 int inteiro = Convert.ToInt32("100");
@@ -66,10 +67,34 @@ int inteiro = Convert.ToInt32("100");
 
 ## Usando ToString
 
-- Todos os tipos primitiveis tem o método ToString()
+- Todos os tipos primitivas tem o método ToString()
 - Serve para transformar o dado em uma string em nosso projeto
 
 ```csharp
 int inteiro = 3;
 string valor = inteiro.ToString(); // "3"
 ```
+
+## Usando TryParse()
+
+O método TryParse() faz várias coisas simultaneamente:
+
+- Ele tenta analisar uma cadeia de caracteres sobre o tipo de dados numérico fornecido.
+- Se a conversão der certo, o valor convertido é armazenado em um **parâmetro de saída**, explicado na seção a seguir.
+- Retorna um `bool` para indicar se a ação foi bem-sucedida ou falhou.
+
+Os métodos podem retornar um valor ou retornar "nulo" - o que significa que eles não retornam nenhum valor. Os métodos também podem retornar valores por meio de parâmetros __out__, definidos como um parâmetro de entrada, porém incluem a palavra-chave __out__.
+
+```csharp
+string value = "102"; 
+int result = 0; 
+if (int.TryParse(value, out result)) // o out diz para onde vai o valor
+{ 
+	Console.WriteLine($"Measurement: {result}");
+} 
+else 
+{ 
+     Console.WriteLine("Unable to report the measurement."); 
+}
+```
+

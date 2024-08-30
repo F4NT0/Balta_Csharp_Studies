@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organização de estudos/Csharp Cursos.md",
+                "file": "Organização de estudos/Links Certificações.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Organização de estudos/Links Certificações.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Organização de estudos/Links Certificações.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Organização de estudos/Links Certificações.md"
+              }
             }
           }
         ],
@@ -181,17 +185,21 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "82c19fc4c5ce3b65",
+  "active": "1e7f097b83e3cc91",
   "lastOpenFiles": [
-    "1 - Fundamentos/Fundamentos.md",
-    "Organização de estudos/Csharp Cursos.md",
-    "1 - Fundamentos/9 - Classes Dotnet/Classes Dotnet.md",
-    "Organização de estudos/Links Certificações.md",
-    "Organização de estudos/Organização.md",
     "Organização de estudos/Csharp Docs.md",
+    "Organização de estudos/Organização.md",
+    "1 - Fundamentos/1 - Tipos de dados/Conversões.md",
+    "1 - Fundamentos/6 - Tipos na memória/Tipos de Referência.md",
+    "1 - Fundamentos/6 - Tipos na memória/Tipos de Valor.md",
+    "Organização de estudos/Csharp Cursos.md",
+    "Organização de estudos/Links Certificações.md",
+    "1 - Fundamentos/2 - Operadores/Condicional.md",
     "3 - Avançado/Avançado.md",
-    "Organização de estudos",
     "Home.md",
+    "1 - Fundamentos/Fundamentos.md",
+    "1 - Fundamentos/9 - Classes Dotnet/Classes Dotnet.md",
+    "Organização de estudos",
     "1 - Fundamentos/1 - Tipos de dados/Primitivos.md",
     "2 - Intermediário/ForEach.md",
     "2 - Intermediário/Intermediário.md",
@@ -204,9 +212,7 @@
     "1 - Fundamentos/9 - Classes Dotnet",
     "1 - Fundamentos/8 - Enums",
     "1 - Fundamentos/7 - Structs/Structs.md",
-    "1 - Fundamentos/6 - Tipos na memória/Tipos de Valor.md",
     "1 - Fundamentos/7 - Structs",
-    "1 - Fundamentos/6 - Tipos na memória/Tipos de Referência.md",
     "1 - Fundamentos/6 - Tipos na memória/Tipos na memória.md",
     "Projetos/Hello World.md",
     "1 - Fundamentos/6 - Tipos na memória",
@@ -214,8 +220,6 @@
     "1 - Fundamentos/5 - Funções e Métodos/Funções e Métodos.md",
     "3 - Avançado",
     "BD/SQLite/Videos.md",
-    "BD/SQLite/SQLite.md",
-    "BD/SQLite/SQLite Tables.md",
     "Imagens/SQLite/SQLiteDatabaseCreation2.png",
     "Imagens/SQLite/SQLiteDatabaseCreation1.png",
     "Imagens/SQLite/SQLiteConsolePrompt.png",
